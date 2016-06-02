@@ -12,6 +12,7 @@ List is provided in YAML format for human readability
 ##Goals
 - Provide JSON version and public URL for use in applications
 - Build process to allow for full list in this README
+- Smash the patriarchy
 
 ## License
 
